@@ -1,4 +1,4 @@
-//Name: Alexander Mekovsky
+
 //Date: September 19 2022
 //Class: COSC 220
 //Assignment: Lab 03 Part 3 main.cpp
