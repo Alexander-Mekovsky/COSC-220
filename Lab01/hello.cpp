@@ -1,4 +1,4 @@
-//Alexander Mekovsky
+
 //8.30.2022
 
 #include <iostream>
