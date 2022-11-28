@@ -1,4 +1,4 @@
-//Name: Alexander Mekovsky
+
 //Date: September 13 2022
 //Class: COSC 220
 //Assignment: Lab 03 Part 1 Circle.h
