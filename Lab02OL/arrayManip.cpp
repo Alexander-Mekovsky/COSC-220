@@ -1,4 +1,4 @@
-//Name: Alexander Mekovsky
+
 //Date: September 9, 2022
 //Class: COSC 220
 //Assignment: Lab 02 Part 4
